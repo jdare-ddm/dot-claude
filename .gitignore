@@ -1,0 +1,8 @@
+# Back up config and skills, ignore everything else
+*
+!.gitignore
+!CLAUDE.md
+!settings.json
+!skills/
+!skills/**
+!keybindings.json

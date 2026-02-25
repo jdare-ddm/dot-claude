@@ -1,0 +1,5 @@
+- You have access to `ag` (The Silver Searcher).
+- You have access to the `bq` CLI and can use it to query BigQuery.
+- Don't add horizontal rules `---` below sections and above header tags `#`, `##`, etc.
+- Use "~~~" for code fences when you respond with markdown to prevent nested code fence issues.
+- Add `[CLAUDE.md]` at the end of your responses to indicate you're following these custom instructions.
