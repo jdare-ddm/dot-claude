@@ -3,6 +3,7 @@
 !.gitignore
 !CLAUDE.md
 !settings.json
+!settings.local.json
 !skills/
 !skills/**
 !keybindings.json
