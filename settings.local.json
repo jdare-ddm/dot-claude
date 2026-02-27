@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__shortcut__stories-search",
+      "Bash(ag *)",
+      "Read(/Users/jdare/Sandbox/**)",
+      "Edit(/Users/jdare/Sandbox/**)",
+      "Write(/Users/jdare/Sandbox/**)",
+      "WebFetch",
+      "Grep",
+      "Glob",
+      "LS",
+      "MultiEdit(/Users/jdare/Sandbox/**)",
+      "TodoRead",
+      "TodoWrite",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
