@@ -5,5 +5,27 @@
   "model": "opus",
   "enabledPlugins": {
     "gopls-lsp@claude-plugins-official": true
+  },
+  "permissions": {
+    "allow": [
+      "mcp__shortcut__*",
+      "mcp__github__*",
+      "mcp__notion-remote__*",
+      "Search",
+      "Bash(ag *)",
+      "Read(/Users/jdare/[Ss]andbox/**)",
+      "Edit(/Users/jdare/[Ss]andbox/**)",
+      "Write(/Users/jdare/[Ss]andbox/**)",
+      "WebFetch",
+      "Grep",
+      "Glob",
+      "LS",
+      "MultiEdit(/Users/jdare/[Ss]andbox/**)",
+      "TodoRead",
+      "TodoWrite",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
   }
 }
